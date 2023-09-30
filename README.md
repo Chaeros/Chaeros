@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Java-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 
 ### My Tech Blog
-
 <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=tistory&logoColor=white"/>
-
 
 ### BOJ Tear
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeros)](https://solved.ac/chaeros/)
