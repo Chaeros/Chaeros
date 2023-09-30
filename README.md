@@ -7,16 +7,14 @@
 
   <img src="https://img.shields.io/badge/Java-4479A1?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 
-<br>
+### My Tech Blog
+
+<img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=tistory&logoColor=white"/>
+
 
 ### BOJ Tear
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeros)](https://solved.ac/chaeros/)
 
-<br>
-
-### My Tech Blog
-
-<img src="https://img.shields.io/badge/Tech Blog-000000?style=flat&logo=tistory&logoColor=white"/>
 
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
 
