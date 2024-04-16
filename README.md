@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
 </a>
 
-### BOJ Tear (Algorithm Online Judge Site)
+### BOJ Tier (Algorithm Online Judge Site)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeros)](https://solved.ac/chaeros/)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Chaeros&show_icons=true"> -->
